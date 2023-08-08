@@ -1,0 +1,4 @@
+LinkedIN
+APIs are used to perform operation between component by following some protocols
+Feeds/, mynetwork/Jobs/etc Endpoint : Content
+APIs will make your product communication with other products by without knowing that they are implemented.
